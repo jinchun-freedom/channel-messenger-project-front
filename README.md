@@ -1,4 +1,5 @@
-# channelmessengerprojectfront
+# graphql_font
+react中调用graphql的示例
 
 #### `installation`
 npm install or yarn install
